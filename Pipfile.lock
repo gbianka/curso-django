@@ -17,11 +17,8 @@
     },
     "default": {
         "asgiref": {
-            "hashes": [
-                "sha256:a5098bc870b80e7b872bff60bb363c7f2c2c89078759f6c47b53ff8c525a152e",
-                "sha256:cd88907ecaec59d78e4ac00ea665b03e571cb37e3a0e37b3702af1a9e86c365a"
-            ],
-            "version": "==3.3.0"
+            "hashes": [],
+            "version": "==3.7.1"
         },
         "django": {
             "hashes": [
